@@ -1,6 +1,5 @@
 # Semantic Plagiarism Detector — Final Integrated Project
 
-Person 1 NLP + Person 3 FastAPI + Person 2 React frontend.
 
 ## Backend
 From the project root:
